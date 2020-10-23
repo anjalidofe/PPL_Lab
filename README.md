@@ -7,4 +7,5 @@ Lab Assignment 1 : Gimple/
 Lab Assignment 2/
 Lab Assignment 3: Parse Trees/
 Lab Assignment 5 : Animal Classes/
-Lab Assignment 6: Shapes Classes
+Lab Assignment 6: Shapes Classes/
+Lab Assignment 8: Exception Handling
