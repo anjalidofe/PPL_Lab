@@ -1,7 +1,7 @@
 # PPL_Lab
 # This repository contains experiments of PPL Lab.
-<b> MIS No: 111903137
-<b> List of experiments</b>
+# MIS No: 111903137
+# List of experiments
 Experiment 1: Hello World
 Lab Assignment 1 : Gimple/
 Lab Assignment 2/
