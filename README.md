@@ -1,5 +1,5 @@
 # PPL_Lab
-# This repository contains experiments of PPL Lab.
+## This repository contains experiments of PPL Lab.
 # MIS No: 111903137
 # List of experiments
 Experiment 1: Hello World
