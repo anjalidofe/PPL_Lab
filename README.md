@@ -13,4 +13,4 @@
 * Lab Assignment 8: Exception Handling
 * Lab Assignment 9 : Prolog
 * Lab Assignment 10 : CLISP
-** PPL GROUP MINIPROJECT 
+* PPL GROUP MINIPROJECT : FACE MASK DETECTION
