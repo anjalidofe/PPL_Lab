@@ -1,0 +1,59 @@
+f (const int & x)
+{
+  int & y;
+
+  y = x;
+  _1 = *y;
+  _2 = _1 + 1;
+  *y = _2;
+}
+
+
+main ()
+{
+  int D.39832;
+
+  {
+    int a;
+
+    try
+      {
+        a = 5;
+        f (&a);
+        a.0_1 = a;
+        _2 = std::basic_ostream<char>::operator<< (&cout, a.0_1);
+        std::basic_ostream<char>::operator<< (_2, endl);
+      }
+    finally
+      {
+        a = {CLOBBER};
+      }
+  }
+  D.39832 = 0;
+  return D.39832;
+}
+
+
+__static_initialization_and_destruction_0 (int __initialize_p, int __priority)
+{
+  if (__initialize_p == 1) goto <D.39837>; else goto <D.39838>;
+  <D.39837>:
+  if (__priority == 65535) goto <D.39839>; else goto <D.39840>;
+  <D.39839>:
+  std::ios_base::Init::Init (&__ioinit);
+  __cxa_atexit (__dt_comp , &__ioinit, &__dso_handle);
+  goto <D.39841>;
+  <D.39840>:
+  <D.39841>:
+  goto <D.39842>;
+  <D.39838>:
+  <D.39842>:
+}
+
+
+_GLOBAL__sub_I__Z1fRKi ()
+{
+  __static_initialization_and_destruction_0 (1, 65535);
+}
+
+
