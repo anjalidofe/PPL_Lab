@@ -14,3 +14,4 @@
 * Lab Assignment 9 : Prolog
 * Lab Assignment 10 : CLISP
 * PPL GROUP MINIPROJECT : FACE MASK DETECTION
+https://github.com/MINI-PROJECT-PPL/mini_project.git
